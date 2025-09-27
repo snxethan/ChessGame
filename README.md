@@ -163,4 +163,4 @@ This project is part of the PRO250 course curriculum. Please check with the cour
 
 ## Author(s)
 
-- [**Ethan Townsend (snxethan)**](www.ethantownsend.dev)
+- [**Ethan Townsend (snxethan)**](https://www.ethantownsend.dev)
